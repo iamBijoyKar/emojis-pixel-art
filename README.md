@@ -13,8 +13,8 @@
 | Emoji | Pixel Emoji  | Pixil File  |
 | ------- | --- | --- |
 | 😀 | ![](emojis/grinning-face.png) | [grinning-face](./pixil-files/grinning-face.pixil) |
-| 😄 | ![](emojis/smiling-face-with-smiling-eyes.png) | [grinning-face](./pixil-files/smiling-face-with-smiling-eyes.pixil) |
-| 😄 | ![](emojis/smiling-face-with-open-mouth-and-smiling-eyes.png) | [grinning-face](./pixil-files/smiling-face-with-open-mouth-and-smiling-eyes.pixil) |
-| 😅 | ![](emojis/smiling-face-with-open-mouth-and-cold-sweat.png) | [grinning-face](./pixil-files/smiling-face-with-open-mouth-and-cold-sweat.pixil) |
+| 😄 | ![](emojis/smiling-face-with-smiling-eyes.png) | [smiling-face-with-smiling-eyes](./pixil-files/smiling-face-with-smiling-eyes.pixil) |
+| 😄 | ![](emojis/smiling-face-with-open-mouth-and-smiling-eyes.png) | [smiling-face-with-open-mouth-and-smiling-eyes](./pixil-files/smiling-face-with-open-mouth-and-smiling-eyes.pixil) |
+| 😅 | ![](emojis/smiling-face-with-open-mouth-and-cold-sweat.png) | [smiling-face-with-open-mouth-and-cold-sweat](./pixil-files/smiling-face-with-open-mouth-and-cold-sweat.pixil) |
 
 
