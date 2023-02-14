@@ -1,5 +1,5 @@
 # Emoji Pixel Art 👩‍🎨
-<img src="./readme-assets/pixel-emojis.jpg" alt="Banner"/>
+![Banner](readme-assets/pixel-emojis.jpg)
 
 *This project contains pixel art of emojis. All pixel arts are made in 32x32 canvas.* 
 
