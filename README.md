@@ -1,5 +1,5 @@
 # Emoji Pixel Art 👩‍🎨
-<a href="https://fontmeme.com/pixel-fonts/"><img src="https://fontmeme.com/permalink/230213/a43673425158a17dd2833d2beda7db1c.png" alt="pixel-fonts" border="0"></a>
+<img src="./readme-assets/pixel-emojis.jpg" alt="Banner">
 
 *This project contains pixel art of emojis. All pixel arts are made in 32x32 canvas.* 
 
@@ -12,9 +12,9 @@
 # Emojis 
 | Emoji | Pixel Emoji  | Pixil File  |
 | ------- | --- | --- |
-| 😀 | ![](emojis/grinning-face.png) | [grinning-face](./pixilart/pixil-files/grinning-face.pixil) |
-| 😄 | ![](emojis/smiling-face-with-smiling-eyes.png) | [smiling-face-with-smiling-eyes](./pixilart/pixil-files/smiling-face-with-smiling-eyes.pixil) |
-| 😄 | ![](emojis/smiling-face-with-open-mouth-and-smiling-eyes.png) | [smiling-face-with-open-mouth-and-smiling-eyes](./pixilart/pixil-files/smiling-face-with-open-mouth-and-smiling-eyes.pixil) |
-| 😅 | ![](emojis/smiling-face-with-open-mouth-and-cold-sweat.png) | [smiling-face-with-open-mouth-and-cold-sweat](./pixilart/pixil-files/smiling-face-with-open-mouth-and-cold-sweat.pixil) |
+| 😀 | <img src="emojis/grinning-face.png " alt="grinning-face">| [grinning-face](./pixilart/pixil-files/grinning-face.pixil) |
+| 😄 | <img src="emojis/smiling-face-with-smiling-eyes.png" alt="smiling-face-with-smiling-eyes"> | [smiling-face-with-smiling-eyes](./pixilart/pixil-files/smiling-face-with-smiling-eyes.pixil) |
+| 😄 | <img src="emojis/smiling-face-with-open-mouth-and-smiling-eyes.png" alt="smiling-face-with-open-mouth-and-smiling-eyes">| [smiling-face-with-open-mouth-and-smiling-eyes](./pixilart/pixil-files/smiling-face-with-open-mouth-and-smiling-eyes.pixil) |
+| 😅 | <img src="emojis/smiling-face-with-open-mouth-and-cold-sweat.png " alt="smiling-face-with-open-mouth-and-cold-sweat">| [smiling-face-with-open-mouth-and-cold-sweat](./pixilart/pixil-files/smiling-face-with-open-mouth-and-cold-sweat.pixil) |
 
 
