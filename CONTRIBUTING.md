@@ -4,7 +4,7 @@ If you want to contribute then plaese do. We welcome contributers warmly.
 - Fork the repository 
 - Clone the repository in your local system
   ```bash
-  git clone <reposity url>
+  git clone <repository url>
   ```
 - Enter into the project directory by 
   ```bash
@@ -50,6 +50,6 @@ After making changes or adding new emoji make sure to add the pixel image in `./
 ## Naming Pixel Emoji files and folders  📁
 ***Make sure to name the files using `-`, do not use spaces or underscores `_`.***
 
-## In Brief : Pixel Images Director
+## In Brief : Pixel Images Directory
 - If you are contributing using Pixilart then paste the image in `./pixilart/emojis` only and the `.pixil` file in `./pixilart/pixil-files`.
 - If you are contributing without using Pixilart (any other software) then paste the image in the `./emojis` only.
