@@ -1,6 +1,20 @@
 # Contributing Guidelines
 If you want to contribute then plaese do. We welcome contributers warmly.
 
+- Fork the repository 
+- Clone the repository in your local system
+  ```bash
+  git clone <reposity url>
+  ```
+- Enter into the project directory by 
+  ```bash
+  cd <project directory name>
+  ```
+- Make changes and make a PR 
+
+
+## Alert 🔔 
+***The canvas size of the Pixel Art must be 32x32***
 ## Prerequisites
 - If you have a [pixilart](https://www.pixilart.com/) account then you can make changes in `.pixil` files.
   - Pixil art is a free web software for creating Pixel art and a huge pixel art community, in this project we work with `.pixil` files which support only [pixilart](https://www.pixilart.com/) web software.
@@ -24,3 +38,18 @@ If you want to contribute then plaese do. We welcome contributers warmly.
 5. After making changes click on download and click Save as .pixil, then make sure to give the proper file name as well download the png and paste it in `pixilart/emojis` directory
 
 ![SharedScreenshot4](https://user-images.githubusercontent.com/85790967/218438817-91401809-88a1-4f09-84bd-8e8f257eac56.jpg)
+
+
+### How to contribute without using Pixilart
+
+Without Pixilart you can use whatever software you want but the ***canvas size must be 32x32***
+
+After making changes or adding new emoji make sure to add the pixel image in `./emojis` directory not in `./pixilart/emojis` directory.
+
+
+## Naming Pixel Emoji files and folders  📁
+***Make sure to name the files using `-`, do not use spaces or underscores `_`.***
+
+## In Brief : Pixel Images Director
+- If you are contributing using Pixilart then paste the image in `./pixilart/emojis` only and the `.pixil` file in `./pixilart/pixil-files`.
+- If you are contributing without using Pixilart (any other software) then paste the image in the `./emojis` only.
