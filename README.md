@@ -32,7 +32,7 @@ We welcome contributors warmly, we are encouraging everyone to contribute as muc
 - Fork the repository 
 - Clone the repository in your local system
   ```bash
-  git clone <reposity url>
+  git clone <repository url>
   ```
 - Enter into the project directory by 
   ```bash
