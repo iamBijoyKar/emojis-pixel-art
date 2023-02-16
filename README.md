@@ -3,10 +3,12 @@
 
 *This project contains pixel art of emojis. All pixel arts are made in 32x32 canvas.* 
 
-![GitHub](https://img.shields.io/github/license/iamBijoyKar/emojis-pixel-art)
+[![GitHub](https://img.shields.io/github/license/iamBijoyKar/emojis-pixel-art)](./LICENSE)
+![pixel-art](https://img.shields.io/badge/-pixel--art-pink)
 ![help-wanted](https://img.shields.io/badge/-help--wanted-green)
 ![GitHub repo size](https://img.shields.io/github/repo-size/iamBijoyKar/emojis-pixel-art)
-![Twitter Follow](https://img.shields.io/twitter/follow/iamBijoyKar?style=social)
+[![GitHub issues](https://img.shields.io/github/issues/iamBijoyKar/emojis-pixel-art)](https://github.com/iamBijoyKar/emojis-pixel-art/issues)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iamBijoyKar?style=social)](https://twitter.com/iamBijoyKar)
 
 ## Info 📄 
 ***All of the pixel arts are made with [Pixilart](https://www.pixilart.com/) and preset on my [Pixilart Profile](https://www.pixilart.com/iambijoykar)*** 
@@ -16,10 +18,10 @@
 # Emojis 
 | Emoji | Pixel Emoji  | Pixil File  |
 | ------- | --- | --- |
-| 😀 | <img src="emojis/grinning-face.png " alt="grinning-face"/>| [grinning-face](./pixilart/pixil-files/grinning-face.pixil) |
-| 😄 | <img src="emojis/smiling-face-with-smiling-eyes.png" alt="smiling-face-with-smiling-eyes"/> | [smiling-face-with-smiling-eyes](./pixilart/pixil-files/smiling-face-with-smiling-eyes.pixil) |
-| 😄 | <img src="emojis/smiling-face-with-open-mouth-and-smiling-eyes.png" alt="smiling-face-with-open-mouth-and-smiling-eyes"/>| [smiling-face-with-open-mouth-and-smiling-eyes](./pixilart/pixil-files/smiling-face-with-open-mouth-and-smiling-eyes.pixil) |
-| 😅 | <img src="emojis/smiling-face-with-open-mouth-and-cold-sweat.png " alt="smiling-face-with-open-mouth-and-cold-sweat"/>| [smiling-face-with-open-mouth-and-cold-sweat](./pixilart/pixil-files/smiling-face-with-open-mouth-and-cold-sweat.pixil) |
+| 😀 | <img src="emojis/grinning-face.png " alt="grinning-face" width="200" />| [grinning-face](./pixilart/pixil-files/grinning-face.pixil) |
+| 😄 | <img src="emojis/smiling-face-with-smiling-eyes.png" alt="smiling-face-with-smiling-eyes" width="200" /> | [smiling-face-with-smiling-eyes](./pixilart/pixil-files/smiling-face-with-smiling-eyes.pixil) |
+| 😄 | <img src="emojis/smiling-face-with-open-mouth-and-smiling-eyes.png" alt="smiling-face-with-open-mouth-and-smiling-eyes" width="200" />| [smiling-face-with-open-mouth-and-smiling-eyes](./pixilart/pixil-files/smiling-face-with-open-mouth-and-smiling-eyes.pixil) |
+| 😅 | <img src="emojis/smiling-face-with-open-mouth-and-cold-sweat.png " alt="smiling-face-with-open-mouth-and-cold-sweat" width="200" />| [smiling-face-with-open-mouth-and-cold-sweat](./pixilart/pixil-files/smiling-face-with-open-mouth-and-cold-sweat.pixil) |
 ## License ✅
 ***We have a [MIT License](LICENSE)***
 Use this project as you like.
