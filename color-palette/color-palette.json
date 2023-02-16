@@ -1,0 +1,36 @@
+{
+    "colors":[
+        {
+            "colorName":"gold",
+            "colorHex":"#FFC83D"
+        },
+        {
+            "colorName":"black",
+            "colorHex":"#000000"
+        },
+        {
+            "colorName":"white",
+            "colorHex":"#FFFFFF"
+        },
+        {
+            "colorName":"red",
+            "colorHex":"#E81224"
+        },
+        {
+            "colorName":"orange",
+            "colorHex":"#F03A17"
+        },
+        {
+            "colorName":"gold",
+            "colorHex":"#D48C00"
+        },
+        {
+            "colorName":"green",
+            "colorHex":"#16C60C"
+        },
+        {
+            "colorName":"sky-blue",
+            "colorHex":"#83BEEC"
+        }
+    ]
+}
