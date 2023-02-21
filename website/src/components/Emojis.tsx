@@ -1,8 +1,8 @@
 import Card from "./Card";
-import grin from "./../assets/emojis/grinning-face.png";
 import emojis from './../emoji.json';
-import React from "react";
 
+// *Name string fileter function
+// todo: More effective and effitient algorithm needed
 function filter(text:string):string{
     const tempText = text.replaceAll('-',' ');
     let ans:string = "";
@@ -19,13 +19,11 @@ function filter(text:string):string{
             }
         }
     }
-
     return ans;
 }
 
 export default function Content(){
 
-    // const img = React.lazy(()=>import (`./../assets/${emoji.name}.png`))
     return(
         <main className="m-8 ">
             <h1 className="text-xl lg:text-6xl font-bold my-10">Emojis</h1>

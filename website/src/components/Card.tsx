@@ -1,11 +1,9 @@
-import React from "react";
 import download from './../assets/download.png';
 
 type CardProp = {
     imgSrc:string,
     name:string
 }
-
 
 export default function Card(props:CardProp){
     const {imgSrc , name} = props;

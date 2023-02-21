@@ -7,9 +7,8 @@ import { useState } from 'react';
 
 
 function NavBar(){
-
-    const [open,toggleopen] = useState(false);
-
+    const [open,toggleopen] = useState(false);// Navbar toggle state
+//! Navbar toggle handler function
     function toggleMenu(){
         const menu = document.querySelector('#menu')
         const close = document.querySelector('#close-btn')
@@ -53,7 +52,6 @@ function NavBar(){
 
 
 function Header(){
-
 
     return(
         <header className="flex flex-row bg-gold align-baseline p-2 justify-between">

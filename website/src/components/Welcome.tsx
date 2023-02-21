@@ -1,8 +1,7 @@
 import banner from './../assets/banner.jpg';
 
-
+// todo: Homepage need improvement
 export default function Welcome(){
-
 
     return (
         <div className="m-8 flex flex-col justify-center align-center gap-4">
