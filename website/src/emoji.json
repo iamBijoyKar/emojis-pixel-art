@@ -1,0 +1,28 @@
+{
+    "emojis":[
+        {
+            "name":"grinning-face",
+            "src":"./src/assets/emojis/grinning-face.png"
+        },
+        {
+            "name":"savouring-delicious-food-face",
+            "src":"./src/assets/emojis/savouring-delicious-food-face.png"
+        },
+        {
+            "name":"smiling-face-with-heart-shaped-eyes",
+            "src":"./src/assets/emojis/smiling-face-with-heart-shaped-eyes.png"
+        },
+        {
+            "name":"smiling-face-with-open-mouth-and-cold-sweat",
+            "src":"./src/assets/emojis/smiling-face-with-open-mouth-and-cold-sweat.png"
+        },
+        {
+            "name":"smiling-face-with-open-mouth-and-smiling-eyes",
+            "src":"./src/assets/emojis/smiling-face-with-open-mouth-and-smiling-eyes.png"
+        },
+        {
+            "name":"smiling-face-with-smiling-eyes",
+            "src":"./src/assets/emojis/smiling-face-with-smiling-eyes.png"
+        }
+    ]
+}
